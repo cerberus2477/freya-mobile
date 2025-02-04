@@ -1,0 +1,31 @@
+# Ignore build directories
+bin/
+obj/
+Platform/bin/
+Platform/obj/
+
+# Ignore user-specific files and settings
+.vs/
+*.userprefs
+*.suo
+*.user
+*.csproj.user
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+desktop.ini
+
+# Ignore JetBrains Rider / IntelliJ settings
+.idea/
+*.iml
+
+# Ignore Visual Studio Code workspace settings
+.vscode/
+
+# Ignore generated files
+GeneratedMSBuildEditorConfig.editorconfig
+project.lock.json
+project.assets.json
