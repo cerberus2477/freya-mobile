@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FreyaApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ec8996f0f52d0f83ab727fd7d2cbaa47b54ed27d")]
 [assembly: System.Reflection.AssemblyProductAttribute("FreyaApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FreyaApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

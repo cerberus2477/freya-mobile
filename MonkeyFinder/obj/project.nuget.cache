@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VlaY4DsdyTg=",
+  "dgSpecHash": "RpboShPuMVc=",
   "success": true,
-  "projectFilePath": "D:\\Tábor Tünde (ideiglenes)\\Part 2 - MVVM\\Part 2 - MVVM\\MonkeyFinder\\FreyaApp.csproj",
+  "projectFilePath": "D:\\Tábor Tünde (ideiglenes)\\Part 2 - MVVM\\freya-mobile\\MonkeyFinder\\FreyaApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\3041TAN-12\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
     "C:\\Users\\3041TAN-12\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0\\microsoft.extensions.configuration.9.0.0.nupkg.sha512",

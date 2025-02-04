@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tábor Tünde (ideiglenes)\\Part 2 - MVVM\\Part 2 - MVVM\\MonkeyFinder\\FreyaApp.csproj": {}
+    "D:\\Tábor Tünde (ideiglenes)\\Part 2 - MVVM\\freya-mobile\\MonkeyFinder\\FreyaApp.csproj": {}
   },
   "projects": {
-    "D:\\Tábor Tünde (ideiglenes)\\Part 2 - MVVM\\Part 2 - MVVM\\MonkeyFinder\\FreyaApp.csproj": {
+    "D:\\Tábor Tünde (ideiglenes)\\Part 2 - MVVM\\freya-mobile\\MonkeyFinder\\FreyaApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tábor Tünde (ideiglenes)\\Part 2 - MVVM\\Part 2 - MVVM\\MonkeyFinder\\FreyaApp.csproj",
+        "projectUniqueName": "D:\\Tábor Tünde (ideiglenes)\\Part 2 - MVVM\\freya-mobile\\MonkeyFinder\\FreyaApp.csproj",
         "projectName": "FreyaApp",
-        "projectPath": "D:\\Tábor Tünde (ideiglenes)\\Part 2 - MVVM\\Part 2 - MVVM\\MonkeyFinder\\FreyaApp.csproj",
+        "projectPath": "D:\\Tábor Tünde (ideiglenes)\\Part 2 - MVVM\\freya-mobile\\MonkeyFinder\\FreyaApp.csproj",
         "packagesPath": "C:\\Users\\3041TAN-12\\.nuget\\packages\\",
-        "outputPath": "D:\\Tábor Tünde (ideiglenes)\\Part 2 - MVVM\\Part 2 - MVVM\\MonkeyFinder\\obj\\",
+        "outputPath": "D:\\Tábor Tünde (ideiglenes)\\Part 2 - MVVM\\freya-mobile\\MonkeyFinder\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

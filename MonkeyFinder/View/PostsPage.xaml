@@ -6,8 +6,8 @@
     xmlns:model="clr-namespace:FreyaMobile.Model">
 
     <CollectionView>
-        <CollectionView.ItemsSource>
-            <x:Array Type="{x:Type model:Monkey}">
+        <!--<CollectionView.ItemsSource>
+            <x:Array Type="{x:Type model:Listing}">
                <model:Monkey
                     Name="Baboon"
                     Image="https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
@@ -40,6 +40,6 @@
                     </Label>
                 </HorizontalStackLayout>
             </DataTemplate>
-        </CollectionView.ItemTemplate>
+        </CollectionView.ItemTemplate>-->
     </CollectionView>
 </ContentPage>
